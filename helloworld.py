@@ -1,11 +1,1 @@
-Bfmdsnfhj
-dfsfdsghfB
-print("hello")
-B
-fsdfD
-#snanfddprint("world")
-#print("1")
-#print("2")
-C
-dhdh
-#faprint("3")
+print("My first program checked in to git, BINGO!")
